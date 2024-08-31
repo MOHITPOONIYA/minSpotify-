@@ -1,1 +1,2 @@
-# minSpotify-
+Spotify Clone - Web-Based Music Streaming App
+Developed a Spotify clone featuring a playlist of 10 popular songs. The app includes essential music streaming functionalities such as play, pause, skip, and volume control, with a user-friendly interface resembling the original Spotify design. Implemented using [mention the technology used, e.g., React, Node.js, HTML, CSS], the project demonstrates proficiency in front-end development, UI/UX design, and handling audio playback. This project showcases my ability to replicate complex applications and build functional, interactive web experiences
